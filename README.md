@@ -1,6 +1,6 @@
 # FileSystemModule
-* Create Directory ( Hint: fs.mkdir )
-* Remove Directory ( Hint: fs.rmdir )
+* Create Directory
+* Remove Directory
 * Write File 
 * Read File 
 * Delete File
